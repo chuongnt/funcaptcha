@@ -1,2 +1,2 @@
 This is plus file.
-This is plus file. <branch-a>
+This is plus file. <branch-b>
